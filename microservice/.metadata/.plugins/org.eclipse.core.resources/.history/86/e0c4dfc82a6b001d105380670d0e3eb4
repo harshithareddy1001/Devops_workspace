@@ -1,0 +1,28 @@
+package org;
+
+import java.util.Scanner;
+
+public class Test {
+	public static void main(String[] args) {
+		int[] nums=new int[5];
+		nums[0]=100;
+		nums[2]=200;
+		nums[3]=300;
+		nums[4]=400;
+		nums[5]=500;
+		Scanner scn=new Scanner(System.in);
+		System.out.println("Enter the numbers for array");
+		int[] nums1=new int[5];
+		for(int i=0; i<nums1.length;i++)
+		{
+			nums1[i]=scn.nextInt();
+		}
+		
+		for(int i=0; i<nums1.length;i++)
+		{
+			System.out.println(nums1[i]);
+		}
+		
+	}
+
+}

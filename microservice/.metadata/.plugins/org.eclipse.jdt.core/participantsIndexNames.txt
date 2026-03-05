@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\28-March\Microservice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1643417204.index
+\AmazonPortal\src\main\java
+D:\28-March\Microservice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1952776171.index
+\AmazonPortal\src\main\java
